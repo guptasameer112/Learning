@@ -1,0 +1,15 @@
+NIFTY_50_TICKER = [
+    "ADANIPORTS.NS",
+    "ASIANPAINT.NS",
+    "AXISBANK.NS",
+    "BAJAJ-AUTO.NS",
+    "BAJFINANCE.NS",
+    "BAJAJFINSV.NS",
+    "BPCL.NS",
+    "BHARTIARTL.NS",
+    "BRITANNIA.NS",
+    "CIPLA.NS",
+    "COALINDIA.NS",
+    "DIVISLAB.NS",
+    "DRREDDY.NS",
+]
